@@ -1,0 +1,6 @@
+01) Open that File and Click on Import Purchase
+02) We have enclosed a sample data for you.
+03) We will import that data to our sheet. 
+03) Will transform that data as per requirement. 
+04) Create new folder with name of Anx.
+05) Create Various file as per working file meet condition of requirement.

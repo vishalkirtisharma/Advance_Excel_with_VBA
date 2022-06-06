@@ -1,0 +1,3 @@
+01) Update data wtih as per format.
+02) Click on Export PF Challan.
+03) File will prepare text file on save folder with delimiter of  " #~# " 

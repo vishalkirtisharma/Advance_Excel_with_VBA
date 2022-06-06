@@ -1,0 +1,7 @@
+01) First we update data as per require format in master data sheet.
+02) Once data updated. We go to action button sheet and click prepare bank file.
+03) It will go to your bank file.
+04) Macro will convert that master data to bank input file and save them to their csv file format.
+05) file will generate in three part with help of macros. C8548RBI + DD+MM + . count of file number having same type with name of C8548RBI.
+06) once fill update and we want to share our attachment to all mail id.
+07) we will click on send payment advice button. it will mail your attachment to mail id with attachment and mention their bank detail on mail body area with help of macros. 

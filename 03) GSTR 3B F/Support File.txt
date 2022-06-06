@@ -1,0 +1,12 @@
+01) Open that File and Click on Import Purchase
+02) We have enclosed a sample data for you.
+03) First We open that file in background and copy require data to our file.
+04) Once Data imported we will remove all the entry expect of  SI-2 and APD(Vou. Pfx.).
+05) We will Change Value of DN entry (Vou. Pfx.) to negative value.
+06) We will filter that entry don't have any their Tax Type and GST Type.
+07) Add their validation with drop down lists and change that value to please select.
+08) Once user change all their value on tax type. User get pop up for update for GST type and sheet will auto change their filter to rest of data. where user intervention require
+09) once user update all require data. We get pop do you want to prepare 3B. Once user confirm we will refreash their data and update with their main Sheet of 3B.
+
+
+We can try it sample work as well.

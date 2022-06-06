@@ -1,0 +1,14 @@
+Please ensure that file will be working smoothly with office 365 or at least 2016 or higher version.
+
+01) First we open 2B file and input their user(Vishal ) password(Vishal).
+02) Then we click on prepare reconciliation. It will open that Purchase.xlsm and runing their marco. It will check their basic requirement such as date format, values and GST no len etc. 
+03) We import 2B data from all file of folder and their related annexure.
+04) Once import part done we will change their data as per our requirement. such as we will amendment invoice from B2B and change credit note value to negative.
+05) Once all data of 2B come together. We will match that data to Purchase file.
+06) One the half of matching of invoice we add their remark from system generate. such as fully match goes to matchted. >= -10 or <= 10 gose to round off, if invoice date is less then selected FY we will update last year invoice etc.
+07) All the invoice which are unmatched go to our second report for Mismatch sheet and also prepare their supplier list.
+08) if User want to remove those entry from mismatch report and want to add their own remark. that can be copied to expection file and add their own remark.
+09) if user want to carry these entry in mismatch report and want to add their own remark, that must be coped to mismatch file of folder.
+10) once user finalize their reco., they will update supplier email id and click on send email button.
+11) File will share email to all supplier with single click with mismatch details and add that to their HTML body in outlook mail.
+12) Macros will add that mail details to log file and start counting for reminder and that will add to next time in our email as well.

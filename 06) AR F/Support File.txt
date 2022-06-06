@@ -1,0 +1,7 @@
+01) Open that File and Click on Raw data sheet.
+02) We have enclosed a sample data for you.
+03) Click on Click to generate overdue details button.
+04) Once Data transformed select any company(single or mutiple) and click on generate sheet.
+05) Excel will create their new sheet on behalf of their status and copy that file to mail attachment with their name and other details.
+06) we can click on send mail or we can directly send mail if we want avoid cross verfication.
+07) It will also create one join file for selected company and sent with seperate mail for management purpose.

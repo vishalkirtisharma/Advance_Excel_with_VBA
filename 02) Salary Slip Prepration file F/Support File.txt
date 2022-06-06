@@ -1,0 +1,5 @@
+01) Update Data for salary in given format.
+02) Click on Payslip 25B Sheet.
+03) Click on Export Salary Slip file
+04) It will export PDF copy of Salary slip for each employee with help of VBA.
+05) Currently We remove their further sheet, so admin access but not working but we can read their code and understand their concept.
